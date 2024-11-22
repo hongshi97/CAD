@@ -1,8 +1,15 @@
 # CAD
-Unofficial re-implementation of [Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://arxiv.org/abs/2305.14739) 
+**Unofficial** re-implementation of [Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://arxiv.org/abs/2305.14739) 
 <p align='center'>
     <img width='700' src="https://github.com/hongshi97/CAD/assets/56019094/d12bf814-10c4-46dd-8318-75bce2081dbf">
 </p>
+
+## Original Implementation
+
+The original implementation of the paper can be found here:
+[context-aware-decoding](https://github.com/xhan77/context-aware-decoding). 
+>Note:
+This re-implementation was developed independently before the release of the official implementation. Therefore, certain details or methodologies may differ from the original code. Please refer to the original repository for the official version.
 
 ## Key Features
 - **Context-Aware Generation**: Enhances the relevance of the generated text by incorporating additional context into the decoding process.
